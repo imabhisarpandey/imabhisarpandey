@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate in Cybersecurity Projects
 - 🤔 I’m looking for Internship
-- 💬 Reach me on [Twitter] (https://twitter.com/imabhisarpandey
+- 💬 Reach me on [Twitter] (https://twitter.com/imabhisarpandey)
 - ⚡ Fun fact: The more you imagine the more inventory ideas you get.
 
 ![Abhisar's github stats](https://github-readme-stats.vercel.app/api?username=imabhisarpandey&theme=dark&show_icons=true)
