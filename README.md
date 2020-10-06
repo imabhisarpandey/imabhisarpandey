@@ -8,4 +8,4 @@
 - ⚡ Fun fact: The more you imagine the more inventory ideas you get.
 
 ![Abhisar's github stats](https://github-readme-stats.vercel.app/api?username=imabhisarpandey&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imabhisarpandey&layout=compact&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imabhisarpandey&layout=compact&theme=light&show_icons=true)
