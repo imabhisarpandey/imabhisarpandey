@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Abhisar Pandey
 
 - 🔭 I’m currently working in Cybersecurity domain.
-- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate in Cybersecurity Projects
 - 🤔 I’m looking for Internship
 - 💬 Join cscodershub Community on: [Discord](https://discord.gg/9R36JBJ/)
