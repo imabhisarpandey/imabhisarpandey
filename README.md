@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Abhisar Pandey aka [MrGrep](https://mrgrep.me) 
 
-- 🔭 I’m currently working as an intern in Deloitte India.
+- I’m currently working as an intern in Deloitte India.
 - Certificates
   - CEH(Practical)
   - CRTP
